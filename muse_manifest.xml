@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sccdxidol.com" resolutions="1x,2x" timestamp="1555420296734">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sccdxidol.com" resolutions="1x,2x" timestamp="1555555001303">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="0416.css" crc="302584088" ref="0416"/>
@@ -17,6 +17,7 @@
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="0416-favicon.ico" crc="277705910" ref="0416"/>
     <file name="a3海報3_.jpg" crc="71998476" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -100,6 +101,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="0416.html" crc="487196043" seo="true" mt="1555420220330" redirect="false"/>
-  <file name="index.html" crc="3890039538" seo="true" mt="1555420226426" redirect="true"/>
+  <file name="0416.html" crc="94744054" seo="true" mt="1555554895955" redirect="false"/>
+  <file name="index.html" crc="3890039538" seo="true" mt="1555554962212" redirect="true"/>
 </manifest>
